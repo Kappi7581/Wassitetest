@@ -36,13 +36,13 @@ export const socialMediaAccounts: { name: string; link: string; iconURL: IconTyp
     name: 'Telegram',
     username: '@uhuvi',
     link: 't.me/uhuvi',
-    iconURL: FaTelegram,
+    iconURL: ,
   },
   {
     name: 'Was Arsiv',
     username: 'Telegram',
     link: 'https://t.me/+HWvy-HWbWAg0Njdk',
-    iconURL: FaTelegram,
+    iconURL: ,
   },
 ];
 
